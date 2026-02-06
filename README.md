@@ -6,7 +6,8 @@ A classic Snake game built with Python using the Turtle graphic module
 - Snake movement using keyboard controls 
 - Food spawning at random positions 
 - Score tracking 
-- Game over when the snake hits the wall or itself 
+- Game over when the snake hits the wall or itself
+- Highest score 
 
 ## Technologies Used 
 - Python 3 
